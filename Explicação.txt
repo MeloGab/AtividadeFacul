@@ -1,0 +1,7 @@
+Os números foram inseridos na forma crescente como solicitado na atividade, [1, 2, 3, 4, 5].
+Só que no passo 2 os números da lista são removidos um por um e são inseridos na pilha usando
+o método push. A pilha como ensinada na unidade 3 é uma LIFFO(Last In, First Out)
+ou seja, o último elemento que foi inserido na pilha é o primeiro a ser removido. 
+Portanto, o primeiro número a ser removido da pilha e adicionado na fila é o número 5, 
+seguido pelo 4, 3, 2 e 1. Assim, na fila, a ordem dos números fica invertida: [5, 4, 3, 2, 1].
+Isso serve para o passo 5 também.

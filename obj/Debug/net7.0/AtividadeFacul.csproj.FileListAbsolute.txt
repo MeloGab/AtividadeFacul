@@ -1,0 +1,15 @@
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\bin\Debug\net7.0\AtividadeFacul.exe
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\bin\Debug\net7.0\AtividadeFacul.deps.json
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\bin\Debug\net7.0\AtividadeFacul.runtimeconfig.json
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\bin\Debug\net7.0\AtividadeFacul.dll
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\bin\Debug\net7.0\AtividadeFacul.pdb
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\AtividadeFacul.csproj.AssemblyReference.cache
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\AtividadeFacul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\AtividadeFacul.AssemblyInfoInputs.cache
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\AtividadeFacul.AssemblyInfo.cs
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\AtividadeFacul.csproj.CoreCompileInputs.cache
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\AtividadeFacul.dll
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\refint\AtividadeFacul.dll
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\AtividadeFacul.pdb
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\AtividadeFacul.genruntimeconfig.cache
+C:\Users\CBYK-DEV\Documents\Gabriel\AtividadeFacul\obj\Debug\net7.0\ref\AtividadeFacul.dll
